@@ -1,0 +1,5 @@
+# Create a dedicated namespace for Dev Spaces
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: openshift-devspaces2
